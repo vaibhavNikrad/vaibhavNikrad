@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhav Nikrad
+# 👋 Hi, I’m Vaibhav Nikrad
 
 - 🌱 I’m currently learning**Full Stack Web Development*
 
