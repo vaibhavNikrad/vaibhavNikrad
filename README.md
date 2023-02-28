@@ -7,8 +7,8 @@ vaibhavNikrad/vaibhavNikrad is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Java Back-end Developer with a good knowledge of Back-end development and Problem-Solving skills. Also, have great knowledge in Java, javaScript and Databases like MySQL, Looking forward to becoming a Back-end developer, alongside learning and growing with the Organization.
-
+<!-- Java Back-end Developer with a good knowledge of Back-end development and Problem-Solving skills. Also, have great knowledge in Java, javaScript and Databases like MySQL, Looking forward to becoming a Back-end developer, alongside learning and growing with the Organization.
+ -->       <p>Hi! My name is <span> Vaibhav Nikrad </span> and I am a skilled Java backend developer . I am passionate about designing and developing robust, efficient, and scalable software solutions that meet the needs of businesses and their customers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vaibhav Nikrad](https://www.linkedin.com/in/vaibhav-nikrad-837493239)) 
