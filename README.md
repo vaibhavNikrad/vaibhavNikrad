@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vaibhav Nikrad](https://www.linkedin.com/in/vaibhav-nikrad-837493239)) 
  
  <h3>
-  <a target="_blank" href="https://drive.google.com/file/d/1e7uet89GaNVGlc1kxhO9ouKyx8Rfjj40/view?usp=share_link"> Resume </a>
+  <a href="https://drive.google.com/file/d/1e7uet89GaNVGlc1kxhO9ouKyx8Rfjj40/view?usp=share_link" target="_blank"> Resume </a>
 </h3>
  
 # 💻 Tech Stack:
