@@ -1,14 +1,12 @@
 # 👋 Hi, I’m Vaibhav Nikrad
 
-- 🌱 Completed the Full Stack Web Development course from Masai School.**
+
 
 ## 💫 About Me:
-Hi! My name is **Vaibhav Nikrad** and I am a skilled Java backend developer. Skilled Java backend developer passionate about designing and developing robust software solutions. Experienced in Spring, MySQL, MongoDB, HTML5, CSS3, and JavaScript. Love collaborating with cross-functional teams. Let's connect for exciting opportunities!
+
+Hi! My name is  **Vaibhav Nikrad**, and I am a skilled Java backend developer. I am passionate about designing and developing robust software solutions. I have experience in SpringBoot, MySQL, Java, HTML5, CSS3, and JavaScript. I love collaborating with cross-functional teams. Let's connect for exciting opportunities!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-nikrad-837493239)
-
-### 📄 Resume:
-- [Download Resume](https://drive.google.com/file/d/1ob6TXGIYptHCvBzd_gv0qlU2zVczQ6YC/view?usp=sharing)
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
